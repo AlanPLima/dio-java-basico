@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aboutMe",
+            "request": "launch",
+            "mainClass": "edu.alan.terminaleargumentos.aboutMe",
+            "projectName": "dio-java-basico_a9492138"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
